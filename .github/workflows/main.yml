@@ -5,7 +5,7 @@ on:
   workflow_dispatch: 
 
 jobs:
-    tests: 
+  tests: 
 
       # [config do so] (windows/linux/mac, chrome/firefox/edge, ...)
       runs-on: ubuntu-latest
